@@ -1,0 +1,1 @@
+console.log('Talk to Rose interface initialized.');
