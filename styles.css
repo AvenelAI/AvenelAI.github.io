@@ -1,1 +1,18 @@
-body { background-color: black; color: silver; font-family: Arial; text-align: center; } h1 { color: red; } a { color: white; margin: 0 15px; }
+
+body {
+    background-color: #000;
+    color: #ccc;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.logo {
+    width: 120px;
+    margin-top: 20px;
+}
+header, footer {
+    background-color: #111;
+    padding: 20px;
+}
+h1, h2 {
+    color: red;
+}
