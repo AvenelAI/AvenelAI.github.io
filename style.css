@@ -12,16 +12,16 @@ header, footer {
     padding: 2rem 1rem;
 }
 h1 {
-    color: #ff3366;
+    color: #66d9ef;
 }
 h2 {
-    color: #ff5566;
+    color: #99ccff;
 }
 main {
     padding: 2rem;
 }
 a, input[type="submit"] {
-    color: #ffccaa;
+    color: #66ffff;
 }
 label, input, textarea {
     font-size: 1rem;
