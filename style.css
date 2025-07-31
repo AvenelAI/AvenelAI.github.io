@@ -20,7 +20,18 @@ h2 {
 main {
     padding: 2rem;
 }
-a {
+a, input[type="submit"] {
     color: #ffccaa;
-    text-decoration: none;
+}
+label, input, textarea {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+input, textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #444;
+    background-color: #222;
+    color: #eee;
 }
