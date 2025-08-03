@@ -1,1 +1,0 @@
-console.log('Talk to Vara interface initialized.');
